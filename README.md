@@ -1,4 +1,4 @@
-# Hi! I'm [Tên của bạn] 👋
+# Hi! I'm Hữu Thoại 👋
 
 ### Full-stack Developer | Web Specialist | Problem Solver
 
@@ -13,7 +13,6 @@ I am a passionate **Full-stack Developer** with nearly **2 years of professional
 - 🔭 Currently working on: Advanced Web Architectures.
 - 🌱 Learning: Cloud Computing and System Design.
 - 💬 Ask me about: **Angular, React, or Node.js**.
-- 📫 How to reach me: [Your Email/LinkedIn Link]
 
 ---
 
@@ -35,15 +34,6 @@ I am a passionate **Full-stack Developer** with nearly **2 years of professional
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=[YOUR-USERNAME]&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR-USERNAME]&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
-
 ## 🔗 Connect with me
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](YOUR_FACEBOOK_URL)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]()
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/thhuu252)
